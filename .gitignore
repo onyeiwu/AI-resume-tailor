@@ -1,0 +1,23 @@
+# Environment variables — NEVER commit this, it holds your API key
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated/output files — created at runtime, not source code
+test_data/
+tailored_resume.docx
+*.docx
+
+# macOS system files
+.DS_Store
+
+# Virtual environment folders
+venv/
+env/
+.venv/

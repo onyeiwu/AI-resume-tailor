@@ -1,0 +1,10 @@
+streamlit
+groq
+python-dotenv
+pymupdf
+python-docx
+sentence-transformers
+scikit-learn
+plotly
+beautifulsoup4
+requests

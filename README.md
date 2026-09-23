@@ -1,4 +1,4 @@
-<img src="app-preview.png" alt="Description" width="500">
+<img src="app-preview.png" alt="Description" width="700">
 
 # 📄 AI Resume Tailor & Job Matching Agent
 

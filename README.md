@@ -1,5 +1,5 @@
 
-![AI Resume Tailor App Preview](<img src="app-preview.png" alt="Description" width="300">)
+![AI Resume Tailor App Preview]<img src="app-preview.png" alt="Description" width="300">
 # 📄 AI Resume Tailor & Job Matching Agent
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)

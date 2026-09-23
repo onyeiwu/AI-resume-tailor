@@ -1,5 +1,7 @@
+
+![AI Resume Tailor App Preview](app-preview.png)
 # 📄 AI Resume Tailor & Job Matching Agent
-![AI Resume Tailor Banner](Screenshot 2026-09-23 at 23.48.00.png)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
 ![Groq](https://img.shields.io/badge/Groq-LLM-green)

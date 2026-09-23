@@ -1,5 +1,5 @@
 # 📄 AI Resume Tailor & Job Matching Agent
-![AI Resume Tailor Banner](path-or-url-to-image.png)
+![AI Resume Tailor Banner](image)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
 ![Groq](https://img.shields.io/badge/Groq-LLM-green)

@@ -37,11 +37,11 @@ This project does not pretend AI-generated content is guaranteed accurate. Durin
 
 ## 🏗️ Architecture
 Upload (PDF/DOCX/URL) → Extraction → CV/JD Analysis → Matching Engine → ATS Score
-↓
+→
 Tailoring (+ verification) → Document Generation
-↓
+→
 Interview Generator (+ verification) → Practice Quiz
-↓
+→
 Career Chat (grounded in real data)
 
 

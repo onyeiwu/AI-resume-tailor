@@ -12,7 +12,6 @@ try:
 except Exception:
     pass
 
-
 st.set_page_config(page_title="AI Resume Tailor", page_icon="📄", layout="wide")
 
 # ============================================================

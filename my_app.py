@@ -5,6 +5,13 @@
 import streamlit as st
 from pipeline_runner import run_full_analysis
 import tempfile
+import os
+
+try:
+    os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
+except Exception:
+    pass
+
 
 st.set_page_config(page_title="AI Resume Tailor", page_icon="📄", layout="wide")
 

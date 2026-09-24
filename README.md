@@ -1,5 +1,5 @@
+<img src="app-preview.png" alt="Description" width="700">
 
-![AI Resume Tailor App Preview](app-preview.png)
 # 📄 AI Resume Tailor & Job Matching Agent
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -37,11 +37,11 @@ This project does not pretend AI-generated content is guaranteed accurate. Durin
 
 ## 🏗️ Architecture
 Upload (PDF/DOCX/URL) → Extraction → CV/JD Analysis → Matching Engine → ATS Score
-↓
+→
 Tailoring (+ verification) → Document Generation
-↓
+→
 Interview Generator (+ verification) → Practice Quiz
-↓
+→
 Career Chat (grounded in real data)
 
 

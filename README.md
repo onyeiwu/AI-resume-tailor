@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try the app here](https://your-app-name.streamlit.app)**
+👉 **[Try the app here](https://ai-resume-job-agent.streamlit.app)**
 
 *(Note: the app may take a moment to wake up if it hasn't been used recently — Streamlit Cloud's free tier puts inactive apps to sleep.)*
 
